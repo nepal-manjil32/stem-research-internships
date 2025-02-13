@@ -51,13 +51,7 @@ A curated list of **STEM research internships** available worldwide for students
 2. Add new internship details in the relevant country section.  
 3. Submit a **Pull Request (PR)** with your changes.  
 
-🚀 **Spread the word! Share this repository with your friends and peers.**  
-
----
-
-## 📚 Additional Resources  
-- **[ResearchGate](https://www.researchgate.net/)** - Connect with researchers worldwide.  
-- **[Scholarships & Grants](https://www.scholarships.com/)** - Funding opportunities for research.  
+🚀 **Spread the word! Share this repository with your friends and peers.**   
 
 ---
 
