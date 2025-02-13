@@ -33,9 +33,10 @@ A curated list of **STEM research internships** available worldwide for students
 - **[NIMS Internship](https://www.nims.go.jp/eng/index.html)** - Materials Science, Nanotechnology  
 
 ### 🌏 **Other Countries**  
-- 🇨🇦 **[Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink)** (Canada) - AI, Engineering, Life Sciences  
-- 🇦🇺 **[ANU Summer Research](https://www.anu.edu.au/)** (Australia) - Physics, Chemistry, Computer Science  
-- 🇮🇳 **[IIT Summer Internships](https://home.iitd.ac.in/)** (India) - Engineering, Mathematics, AI  
+- 🇧🇬 **[INSAIT](https://insait.ai/surf/)** (Bulgaria) - AI, Engineering, Life Sciences [Deadline: March 3, 2025]
+- 🇨🇦 **[Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink)** (Canada) - AI, Engineering, Life Sciences  [Deadline: March 3, 2025]
+- 🇦🇺 **[ANU Summer Research](https://www.anu.edu.au/)** (Australia) - Physics, Chemistry, Computer Science  [Deadline: March 3, 2025]
+- 🇮🇳 **[IIT Summer Internships](https://home.iitd.ac.in/)** (India) - Engineering, Mathematics, AI  [Deadline: March 3, 2025]
 
 ---
 
@@ -56,3 +57,4 @@ A curated list of **STEM research internships** available worldwide for students
 ---
 
 🔗 **Stay Updated:** Follow this repo for the latest internships! ⭐  
+
