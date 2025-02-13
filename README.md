@@ -4,11 +4,6 @@ A curated list of **STEM research internships** available worldwide for students
 
 ---
 
-## 📌 How to Use This Repository
-- Browse internships categorized by **country**.
-- Click on the links for **official details and application deadlines**.
-- Contribute by adding new internships or updating existing ones.
-
 ⭐ **If you find this repository useful, don't forget to [fork](https://github.com/YOUR-USERNAME/stem-research-internships/fork), star ⭐, and share it with others!** 🚀  
 
 ---
