@@ -10,12 +10,12 @@ A curated list of **STEM research internships** available worldwide for students
 
 ## 🌎 Internship Opportunities by Country  
 
-### 🇺🇸 **United States**  
+## 🇺🇸 **United States**  
 - **[Google Research Internship](https://research.google/careers/)** - AI, ML, Software Engineering  
 - **[NASA Internships](https://intern.nasa.gov/)** - Space Research, Robotics, Engineering  
 - **[MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/)** - Physics, Chemistry, Data Science  
 
-### 🇪🇺 **Europe**  
+## 🇪🇺 **Europe**  
 #### 🇩🇪 **Germany**  
 - **[Max Planck Internship](https://www.mpg.de/internships)** - Computational Science, AI, Quantum Computing  
 - **[DAAD RISE](https://www.daad.de/rise/en/)** - STEM research internships for undergraduates  
@@ -32,7 +32,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Neuroscience, Robotics, Quantum Tech  
 - **[NIMS Internship](https://www.nims.go.jp/eng/index.html)** - Materials Science, Nanotechnology  
 
-### 🌏 **Other Countries**  
+## 🌏 **Other Countries**  
 - 🇧🇬 **[INSAIT](https://insait.ai/surf/)** (Bulgaria) - AI, Engineering, Life Sciences [Deadline: March 3, 2025]
 - 🇨🇦 **[Mitacs Globalink](https://www.mitacs.ca/en/programs/globalink)** (Canada) - AI, Engineering, Life Sciences  [Deadline: March 3, 2025]
 - 🇦🇺 **[ANU Summer Research](https://www.anu.edu.au/)** (Australia) - Physics, Chemistry, Computer Science  [Deadline: March 3, 2025]
