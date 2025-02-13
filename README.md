@@ -24,11 +24,11 @@ A curated list of **STEM research internships** available worldwide for students
 - **[CERN Summer Internship](https://home.cern/jobs/students)** - Physics, Engineering, Data Science  
 - **[INRIA Research Internship](https://www.inria.fr/en/internships)** - Computer Science, AI, Cybersecurity  
 
-### 🇬🇧 **United Kingdom**  
+## 🇬🇧 **United Kingdom**  
 - **[Turing Internship Network](https://www.turing.ac.uk/work-turing/turing-internship-network)** - AI, ML, Data Science  
 - **[Imperial College UROP](https://www.imperial.ac.uk/urop/)** - Various STEM fields  
 
-### 🇯🇵 **Japan**  
+## 🇯🇵 **Japan**  
 - **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Neuroscience, Robotics, Quantum Tech  
 - **[NIMS Internship](https://www.nims.go.jp/eng/index.html)** - Materials Science, Nanotechnology  
 
