@@ -15,6 +15,9 @@ A curated list of **STEM research internships** available worldwide for students
 - **[NASA Internships](https://intern.nasa.gov/)** - Space Research, Robotics, Engineering  
 - **[MIT Summer Research Program (MSRP)](https://oge.mit.edu/msrp/)** - Physics, Chemistry, Data Science  
 
+## 🇨🇳 **China**  
+- **[FuSEP Summer Research 2025](https://fusep.ustc.edu.cn/fusep/)** 
+
 ## 🇪🇺 **Europe**  
 #### 🇩🇪 **Germany**  
 - **[Max Planck Internship](https://www.mpg.de/internships)** - Computational Science, AI, Quantum Computing  
@@ -27,6 +30,12 @@ A curated list of **STEM research internships** available worldwide for students
 ## 🇬🇧 **United Kingdom**  
 - **[Turing Internship Network](https://www.turing.ac.uk/work-turing/turing-internship-network)** - AI, ML, Data Science  
 - **[Imperial College UROP](https://www.imperial.ac.uk/urop/)** - Various STEM fields  
+
+## 🇰🇷 **South Korea**  
+- **[XXXXX](https://fusep.ustc.edu.cn/fusep/)** 
+
+## 🇹🇼 **Taiwan**  
+- **[XXXXX](https://fusep.ustc.edu.cn/fusep/)** 
 
 ## 🇯🇵 **Japan**  
 - **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Neuroscience, Robotics, Quantum Tech  
