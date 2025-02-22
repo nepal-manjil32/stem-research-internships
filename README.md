@@ -2,9 +2,6 @@
 
 A curated list of **STEM research internships** available worldwide for students and early-career researchers. This repository aims to help aspiring researchers find opportunities in **Engineering, Science, Technology, and Mathematics** fields.
 
----
-
-⭐ **If you find this repository useful, don't forget to [fork](https://github.com/YOUR-USERNAME/stem-research-internships/fork), star ⭐, and share it with others!** 🚀  
 
 ---
 
