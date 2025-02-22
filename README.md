@@ -34,7 +34,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[XXXXX]()** 
 
 ## 🇸🇬 **Singapore**  
-- **[A^*STAR](https://www.a-star.edu.sg/)** 
+- **[A<sup>*</sup>STAR](https://www.a-star.edu.sg/)**
 
 ## 🇹🇼 **Taiwan**  
 - **[XXXXX]()** 
