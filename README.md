@@ -57,19 +57,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[IISER Bhopal](https://www.iiserb.ac.in/assets/all_upload/doaa/IISER_Bhopal_Summer_Internship.pdf)** 
 - **[IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/)** 
 
-
 ---
-
-## 🎯 Who Can Apply?  
-- **Undergraduate & Graduate Students**  
-- Open to students in **STEM disciplines** worldwide.  
-
----
-
-## 🤝 How to Contribute?  
-1. **Fork this repository** by clicking the **Fork** button at the top right.  
-2. Add new internship details in the relevant country section.  
-3. Submit a **Pull Request (PR)** with your changes.  
 
 **Spread the word! Share this repository with your friends and peers.**   
 
