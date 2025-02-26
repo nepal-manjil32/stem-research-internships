@@ -43,10 +43,10 @@ A curated list of **STEM research internships** available worldwide for students
 - [KAUST](https://admissions.kaust.edu.sa/study/internships) - Deadline: Open throughout the year
 
 ### 🇮🇳 **India**
-- **[IIT Madras](https://ssp.iitm.ac.in/summer-fellowship-registration) - Deadline: February 28, 2025
-- **[IIT Hyderabad](https://iith.ac.in/research/SURE/) - Deadline: March 5, 2025
-- **[IIT Guwhati](https://www.iitg.ac.in/cse/summerinternship/) - (CSE) Deadline:  March 20, 2025
-- **[IIT Guwhati](https://www.iitg.ac.in/civil/home_news_details.php?slno=OTFqenZ6OWxVMUd3NHpvcGZvTDVRZz09&notice=Summer-Training/Internship-2025) - (Civil) Deadline:  March 15, 2025
+- [IIT Madras](https://ssp.iitm.ac.in/summer-fellowship-registration) - Deadline: February 28, 2025
+- [IIT Hyderabad](https://iith.ac.in/research/SURE/) - Deadline: March 5, 2025
+- [IIT Guwhati](https://www.iitg.ac.in/cse/summerinternship/) - (CSE) Deadline:  March 20, 2025
+- [IIT Guwhati](https://www.iitg.ac.in/civil/home_news_details.php?slno=OTFqenZ6OWxVMUd3NHpvcGZvTDVRZz09&notice=Summer-Training/Internship-2025) - (Civil) Deadline:  March 15, 2025
 - ~~[IIT Kanpur](https://surge.iitk.ac.in/app/main.php) Deadline: February 18, 2025~~
 - [IIT Mandi](https://www.iitmandi.ac.in/internships) Deadline: Opening Soon
 - [IIT Dhanbad](https://people.iitism.ac.in/~research/SRIP.php) Deadline: 
