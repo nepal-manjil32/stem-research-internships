@@ -37,7 +37,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[XXXXX]()**  -->
 
 ### 🇯🇵 **Japan**  
-- **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Deadline: Applications Closed
+- ~**[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Deadline: Applications Closed
 
 ### 🇸🇦 **Saudi Arabia**  
 - **[KAUST](https://admissions.kaust.edu.sa/study/internships)** - Deadline: Open throughout the year
@@ -47,8 +47,8 @@ A curated list of **STEM research internships** available worldwide for students
 - **[IIT Hyderabad](https://iith.ac.in/research/SURE/)** - Deadline: March 5, 2025
 - **[IIT Guwhati](https://www.iitg.ac.in/cse/summerinternship/)** - (CSE) Deadline:  March 20, 2025
 - **[IIT Guwhati](https://www.iitg.ac.in/civil/home_news_details.php?slno=OTFqenZ6OWxVMUd3NHpvcGZvTDVRZz09&notice=Summer-Training/Internship-2025)** - (Civil) Deadline:  March 15, 2025
-- **[IIT Kanpur](https://surge.iitk.ac.in/app/main.php)** Deadline: 
-- **[IIT Mandi](https://www.iitmandi.ac.in/internships)** Deadline: 
+- ~**[IIT Kanpur](https://surge.iitk.ac.in/app/main.php)** Deadline: February 18, 2025
+- **[IIT Mandi](https://www.iitmandi.ac.in/internships)** Deadline: Opening Soon
 - **[IIT Dhanbad](https://people.iitism.ac.in/~research/SRIP.php)** Deadline: 
 - **[IIT Ropar](https://www.iitrpr.ac.in/studentportal/summerinternship-2025)** Deadline: 
 - **[IIT Gandhinagar](https://srip.iitgn.ac.in/info/guidelines/)**  - Deadline: March 1, 2025
