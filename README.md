@@ -27,11 +27,16 @@ A curated list of **STEM research internships** available worldwide for students
 - **[Turing Internship Network]()** 
 - **[Imperial College UROP]()**  -->
 
-<!-- ### 🇰🇷 **South Korea**  
-- **[XXXXX]()**  -->
+### 🇪🇺 **Other European Countries**
+- [INSAIT, Bulgaria](https://insait.ai/surf/)  - Deadline: March 3, 2025
+
+### 🇰🇷 **South Korea**  
+- [GIST- Global Intern Program (GIP)](https://www.gist.ac.kr/en/html/sub07/0702.html) - Deadline: February 28, 2025
+
 
 ### 🇸🇬 **Singapore**  
 - [A<sup>*</sup>STAR](https://www.a-star.edu.sg/) - Deadline: Open throughout the year
+- [NTU- Global Connect Fellowship](https://www.ntu.edu.sg/about-us/global/global-connect-fellowship) - Deadline: February 28, 2025
 
 <!-- ### 🇹🇼 **Taiwan**  
 - **[XXXXX]()**  -->
