@@ -51,7 +51,7 @@ A curated list of **STEM research internships** available worldwide for students
 - ~~[IIT Kanpur](https://surge.iitk.ac.in/app/main.php) Deadline: February 18, 2025~~
 - [IIT Mandi](https://www.iitmandi.ac.in/internships) Deadline: Opening Soon
 - [IIT Dhanbad](https://people.iitism.ac.in/~research/SRIP.php) Deadline: 
-- [IIT Ropar](https://www.iitrpr.ac.in/studentportal/summerinternship-2025) Deadline: 
+- [IIT Ropar](https://www.iitrpr.ac.in/studentportal/summerinternship-2025) Deadline: February 28, 2025
 - [IIT Gandhinagar](https://srip.iitgn.ac.in/info/guidelines/)  - Deadline: March 1, 2025
 - [IIT Palakkad](https://sun.iitpkd.ac.in/) - Deadline: March 18, 2025 (Others), February 25, 2025 (Foreign Nationals)
 - [IIT Goa](https://iitgoa.ac.in/summer-internships-2024-at-iit-goa/) - Deadline: Opening Soon
@@ -74,7 +74,7 @@ A curated list of **STEM research internships** available worldwide for students
 - [IIIT Vadodara](https://iiitvadodara.ac.in/internship.php) - Deadline: Not Mentioned
 
 #### Others
-- [BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/) - Deadline: March 22nd, 2025 
+- [BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/) - Deadline: March 22, 2025 
 
 ---
 
