@@ -37,7 +37,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[XXXXX]()**  -->
 
 ### 🇯🇵 **Japan**  
-- **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Deadline: Closed
+- **[OIST Research Internship](https://admissions.oist.jp/research-internship)** - Deadline: Applications Closed
 
 ### 🇸🇦 **Saudi Arabia**  
 - **[KAUST](https://admissions.kaust.edu.sa/study/internships)** - Deadline: Open throughout the year
@@ -56,6 +56,7 @@ A curated list of **STEM research internships** available worldwide for students
 - **[IIT Goa](https://iitgoa.ac.in/summer-internships-2024-at-iit-goa/)** - Deadline: Opening Soon
 - **[IIT Jammu](https://www.iitjammu.ac.in/post/rise-up)** - Deadline: Opening Soon
 - **[IIT Bhubaneswar](https://webapps.iitbbs.ac.in/internship-application/)** - Deadline: Opening Soon
+- **[IIT Indore](https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students)** - Deadline: April 30, 2025
 
 
 - **[IISER Pune](http://www3.iiserpune.ac.in/~sspc/)** - Deadline: February 21, 2025.
@@ -67,6 +68,7 @@ A curated list of **STEM research internships** available worldwide for students
 
 - **[IIIT Bangalore](https://www.iiitb.ac.in/summer-internship)** - Deadline: March 31, 2025
 
+- **[BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/)** - Deadline: March 22nd, 2025
 
 ---
 
