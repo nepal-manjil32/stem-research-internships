@@ -43,6 +43,7 @@ A curated list of **STEM research internships** available worldwide for students
 - [KAUST](https://admissions.kaust.edu.sa/study/internships) - Deadline: Open throughout the year
 
 ### 🇮🇳 **India**
+#### IITs
 - [IIT Madras](https://ssp.iitm.ac.in/summer-fellowship-registration) - Deadline: February 28, 2025
 - [IIT Hyderabad](https://iith.ac.in/research/SURE/) - Deadline: March 5, 2025
 - [IIT Guwhati](https://www.iitg.ac.in/cse/summerinternship/) - (CSE) Deadline:  March 20, 2025
@@ -58,16 +59,21 @@ A curated list of **STEM research internships** available worldwide for students
 - [IIT Bhubaneswar](https://webapps.iitbbs.ac.in/internship-application/) - Deadline: Opening Soon
 - [IIT Indore](https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students) - Deadline: April 30, 2025
 
-
+#### IISERs
 - [IISER Pune](http://www3.iiserpune.ac.in/~sspc/) - Deadline: February 21, 2025.
 - [IISER Bhopal](https://www.iiserb.ac.in/assets/all_upload/doaa/IISER_Bhopal_Summer_Internship.pdf) - Deadline: March 21, 2025
 - [IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/) - Deadline: Opening Soon
 - [IISER Mohali](https://www.iisermohali.ac.in/admission-news/summer-research-program-2024) - Deadline: Opening Soon
 
+#### NITs
 - [NIT Rourkela](https://eapplication.nitrkl.ac.in/internship/) - Deadline: March 28, 2024
 
+#### IIITs
 - [IIIT Bangalore](https://www.iiitb.ac.in/summer-internship) - Deadline: March 31, 2025
+- [IIIT Nagpur](https://iiitn.ac.in/page.php?id=240) - Deadline: Not Mentioned
+- [IIIT Vadodara](https://iiitvadodara.ac.in/internship.php) - Deadline: Not Mentioned
 
+#### Others
 - [BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/) - Deadline: March 22nd, 2025 
 
 ---
