@@ -15,6 +15,12 @@ A curated list of **STEM research internships** available worldwide for students
 <!-- ### 🇨🇳 **China**  
 - **[FuSEP Summer Research 2025](https://fusep.ustc.edu.cn/fusep/)** 
 
+ -->
+
+### 🇭🇰 **Honkong**  
+- **[HKU CDS Research Internship Programme 2025](https://www.cs.hku.hk/rintern/)** - Deadline: May 30, 2025
+
+<!-- 
 ### 🇩🇪 **Germany**  
 - **[Max Planck Internship]()** 
 - **[DAAD RISE]()** 
@@ -50,6 +56,7 @@ A curated list of **STEM research internships** available worldwide for students
 ### 🇮🇳 **India**
 #### IITs
 - [IIT Madras](https://ssp.iitm.ac.in/summer-fellowship-registration) - Deadline: February 28, 2025
+- [IIT Delhi](https://home.iitd.ac.in/show.php?id=629&in_sections=News) - Deadline: March 20, 2025
 - [IIT Hyderabad](https://iith.ac.in/research/SURE/) - Deadline: March 5, 2025
 - [IIT Guwhati](https://www.iitg.ac.in/cse/summerinternship/) - (CSE) Deadline:  March 20, 2025
 - [IIT Guwhati](https://www.iitg.ac.in/civil/home_news_details.php?slno=OTFqenZ6OWxVMUd3NHpvcGZvTDVRZz09&notice=Summer-Training/Internship-2025) - (Civil) Deadline:  March 15, 2025
