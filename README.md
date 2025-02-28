@@ -84,6 +84,7 @@ A curated list of **STEM research internships** available worldwide for students
 - [IIIT Bangalore](https://www.iiitb.ac.in/summer-internship) - Deadline: March 31, 2025
 - [IIIT Nagpur](https://iiitn.ac.in/page.php?id=240) - Deadline: Not Mentioned
 - [IIIT Vadodara](https://iiitvadodara.ac.in/internship.php) - Deadline: Not Mentioned
+- [IIIT Kottayam](https://internship.iiitkottayam.ac.in/) - Deadline: April 01, 2025
 
 #### Others
 - [BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/) - Deadline: March 22, 2025 
