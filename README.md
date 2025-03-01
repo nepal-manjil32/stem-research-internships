@@ -18,7 +18,7 @@ A curated list of **STEM research internships** available worldwide for students
  -->
 
 ### 🇭🇰 **Honkong**  
-- **[HKU CDS Research Internship Programme 2025](https://www.cs.hku.hk/rintern/)** - Deadline: May 30, 2025
+- [HKU CDS Research Internship Programme 2025](https://www.cs.hku.hk/rintern/) - Deadline: May 30, 2025
 
 <!-- 
 ### 🇩🇪 **Germany**  
@@ -51,7 +51,8 @@ A curated list of **STEM research internships** available worldwide for students
 - ~~[OIST Research Internship](https://admissions.oist.jp/research-internship) - Deadline: Applications Closed~~
 
 ### 🇸🇦 **Saudi Arabia**  
-- [KAUST](https://admissions.kaust.edu.sa/study/internships) - Deadline: Open throughout the year
+- [Visiting Student Research Program (VSRP) at KAUST](https://admissions.kaust.edu.sa/study/internships) - Deadline: Open throughout the year
+- [Saudi Summer Internship (SSI) at KAUST](https://cemse.kaust.edu.sa/internship-opportunities/saudi-summer-internship-ssi) - Deadline: April 16, 2025
 
 ### 🇮🇳 **India**
 #### IITs
@@ -74,7 +75,7 @@ A curated list of **STEM research internships** available worldwide for students
 #### IISERs
 - [IISER Pune](http://www3.iiserpune.ac.in/~sspc/) - Deadline: February 21, 2025.
 - [IISER Bhopal](https://www.iiserb.ac.in/assets/all_upload/doaa/IISER_Bhopal_Summer_Internship.pdf) - Deadline: March 21, 2025
-- [IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/) - Deadline: Opening Soon
+- [IISER Kolkata](https://www.iiserkol.ac.in/~summer.research/) - Deadline: April 9, 2025
 - [IISER Mohali](https://www.iisermohali.ac.in/admission-news/summer-research-program-2024) - Deadline: Opening Soon
 
 #### NITs
