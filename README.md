@@ -80,6 +80,7 @@ A curated list of **STEM research internships** available worldwide for students
 
 #### NITs
 - [NIT Rourkela](https://eapplication.nitrkl.ac.in/internship/) - Deadline: March 28, 2024
+<!-- - [VNIT Nagpur](https://vnit.ac.in/section/tnp/summer-internships/) - Deadline: March 28, 2024 -->
 
 #### IIITs
 - [IIIT Bangalore](https://www.iiitb.ac.in/summer-internship) - Deadline: March 31, 2025
@@ -88,6 +89,7 @@ A curated list of **STEM research internships** available worldwide for students
 - [IIIT Kottayam](https://internship.iiitkottayam.ac.in/) - Deadline: April 01, 2025
 
 #### Others
+- [BARC (Bhabha Atomic Research Centre) Internship](https://www.barc.gov.in/student/) - March 2025 (Tentative)
 - [BITS Pilani Goa](https://www.bits-pilani.ac.in/news/bits-pilani-goa-summer-research-program-2025-bgsrp-2025/) - Deadline: March 22, 2025 
 
 ---
