@@ -17,8 +17,10 @@ A curated list of **STEM research internships** available worldwide for students
 
  -->
 
-### 🇭🇰 **Honkong**  
-- [HKU CDS Research Internship Programme 2025](https://www.cs.hku.hk/rintern/) - Deadline: May 30, 2025
+<details>
+  <summary>**<font size='+2'>🇭🇰 **Honkong**</font>**</summary>
+  - [HKU CDS Research Internship Programme 2025](https://www.cs.hku.hk/rintern/) - Deadline: May 30, 2025
+</details>
 
 <!-- 
 ### 🇩🇪 **Germany**  
@@ -94,10 +96,6 @@ A curated list of **STEM research internships** available worldwide for students
 
 ---
 
-<details>
-  <summary>Click to expand</summary>
-  This is the content inside the drop-down box.
-</details>
 
 
 **Stay Updated:** Follow this repo for the latest internships! ⭐  
