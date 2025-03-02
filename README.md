@@ -94,5 +94,11 @@ A curated list of **STEM research internships** available worldwide for students
 
 ---
 
+<details>
+  <summary>Click to expand</summary>
+  This is the content inside the drop-down box.
+</details>
+
+
 **Stay Updated:** Follow this repo for the latest internships! ⭐  
 
