@@ -10,6 +10,9 @@
 
 ## 🌎 Internship Opportunities by Country  
 
+**Stay Updated:** Star (⭐)  and Follow this repo for the latest internships!
+
+---
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇭🇰 Hong Kong</span></strong></summary>
     <ul>
@@ -117,5 +120,5 @@
 
 
 
-**Stay Updated:** Follow this repo for the latest internships! ⭐  
+
 
