@@ -13,6 +13,8 @@
 **Stay Updated:** Star (⭐)  and Follow this repo for the latest internships!
 
 ---
+
+<!-- 🇭🇰 Hong Kong -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇭🇰 Hong Kong</span></strong></summary>
     <ul>
@@ -20,6 +22,8 @@
     </ul>
 </details>
 
+
+<!-- 🇪🇺 European Countries -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇪🇺 European Countries</span></strong></summary>
     <ul>
@@ -28,6 +32,7 @@
 </details>
 
 
+<!-- 🇰🇷 South Korea -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇰🇷 South Korea</span></strong></summary>
     <ul>
@@ -36,6 +41,7 @@
 </details>
 
 
+<!-- 🇸🇬 Singapore -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇸🇬 Singapore</span></strong></summary>
     <ul>
@@ -45,11 +51,10 @@
 </details>
 
 
-<!-- ### 🇹🇼 **Taiwan**  
-- **[XXXXX]()**  -->
 
+<!-- 🇯🇵 Japan -->
 <details>
-  <summary><strong><span style="font-size: 1.5em;">🇯🇵 Japan </span></strong></summary>
+  <summary><strong><span style="font-size: 1.5em;">🇯🇵 Japan</span></strong></summary>
     <ul>
         <li><p style="font-size: 1em;"><a href="https://admissions.oist.jp/research-internship" target="_blank">OIST Research Internship</a> - Deadline: Applications Closed</p></li>
     </ul>
@@ -57,6 +62,7 @@
 
 
 
+<!-- XXXXXXX -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇸🇦 Saudi Arabia </span></strong></summary>
     <ul>
@@ -65,6 +71,8 @@
     </ul>
 </details>
 
+
+<!-- XXXXXXX -->
 <details>
   <summary><strong><span style="font-size: 1.5em;">🇮🇳 India</span></strong></summary>
     <ol>
@@ -84,6 +92,7 @@
             <li><p style="font-size: 1em;"><a href="https://www.iitjammu.ac.in/post/rise-up" target="_blank">IIT Jammu</a> - Deadline: Opening Soon</p></li>
             <li><p style="font-size: 1em;"><a href="https://webapps.iitbbs.ac.in/internship-application/" target="_blank">IIT Bhubaneswar</a> - Deadline: Opening Soon</p></li>
             <li><p style="font-size: 1em;"><a href="https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students" target="_blank">IIT Indore</a> - Deadline: April 30, 2025</p></li>
+            <li><p style="font-size: 1em;"><a href="https://www.iitdh.ac.in/summer-internship-program-2025" target="_blank">IIT Dharwad</a> - Deadline: March 23, 2025</p></li>
         </ol>
         <summary><span style="font-size: 1.2em;">IISERs</span></summary>
         <ol>
