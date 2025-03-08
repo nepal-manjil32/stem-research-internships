@@ -93,6 +93,7 @@
             <li><p style="font-size: 1em;"><a href="https://webapps.iitbbs.ac.in/internship-application/" target="_blank">IIT Bhubaneswar</a> - Deadline: Opening Soon</p></li>
             <li><p style="font-size: 1em;"><a href="https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students" target="_blank">IIT Indore</a> - Deadline: April 30, 2025</p></li>
             <li><p style="font-size: 1em;"><a href="https://www.iitdh.ac.in/summer-internship-program-2025" target="_blank">IIT Dharwad</a> - Deadline: March 23, 2025</p></li>
+            <li><p style="font-size: 1em;"><a href="https://files.iittp.ac.in/pdfs/announcements/2025/Summer_Internship_2025_Flyer.pdf" target="_blank">IIT Tirupati</a> - Deadline: March 31, 2025</p></li>
         </ol>
         <summary><span style="font-size: 1.2em;">IISERs</span></summary>
         <ol>
