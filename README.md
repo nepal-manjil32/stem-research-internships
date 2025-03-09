@@ -104,10 +104,10 @@
         </ol>
         <summary><span style="font-size: 1.2em;">NITs</span></summary>
         <ol>
-            <li><p style="font-size: 1em;"><a href="https://eapplication.nitrkl.ac.in/internship/" target="_blank">NIT Rourkela</a> - Deadline: March 28, 2024</p></li>
-            <li><p style="font-size: 1em;"><a href="https://vnit.ac.in/section/tnp/summer-internships/" target="_blank">VNIT Nagpur</a> - Deadline: March 28, 2024</p></li>
-            <!-- <li><p style="font-size: 1em;"><a href="XXXX" target="_blank">XXXX</a> XXXX</p></li>
-            <li><p style="font-size: 1em;"><a href="XXXX" target="_blank">XXXX</a> XXXX</p></li> -->
+            <li><p style="font-size: 1em;"><a href="https://eapplication.nitrkl.ac.in/internship/" target="_blank">NIT Rourkela</a> - Deadline: March 28, 2025</p></li>
+            <li><p style="font-size: 1em;"><a href="https://vnit.ac.in/section/tnp/summer-internships/" target="_blank">VNIT Nagpur</a> - Deadline: March 28, 2025</p></li>
+            <li><p style="font-size: 1em;"><a href="https://nitdelhi.ac.in/wp-content/uploads/2025/03/Internship@NITD.pdf" target="_blank">NIT Delhi</a> - Deadline: March 20, 2025</p></li>
+            <!-- <li><p style="font-size: 1em;"><a href="XXXX" target="_blank">XXXX</a> XXXX</p></li>  -->
         </ol>
         <summary><span style="font-size: 1.2em;">IIITs</span></summary>
         <ol>
